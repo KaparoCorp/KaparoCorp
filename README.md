@@ -8,3 +8,6 @@
 KaparoCorp/KaparoCorp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+#storage
+1.there put in glass containers.
