@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaparoCorp
 - 👀 I’m interested in coding and networking
-- 🌱 I’m currently learning javascript and php
+- 🌱 I’m currently learning AWS and Vue
 - 💞️ I’m looking to collaborate on a website build
 - 📫 Reach me at njorogerae@gmail.com
 
