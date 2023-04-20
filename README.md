@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning AWS and Vue
 - 💞️ I’m looking to collaborate on a website build
 - 📫 Reach me at njorogerae@gmail.com
-- kata [https://www.codewars.com/users/jahroge/badges/large]
+***
+
+
+![kata](https://www.codewars.com/users/jahroge/badges/large)
 ***
 
 <!---
