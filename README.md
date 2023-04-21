@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan Henry Njoroge 
 - 👀 I’m interested in coding and networking
-- 🌱 I’m currently learning AWS and Vue
+- 🌱 I’m currently learning C++, python and JavaScript , Cryptography, compilers
 - 💞️ I’m looking to collaborate on a website build
 - 📫 Reach me at njorogerae@gmail.com
 ***
